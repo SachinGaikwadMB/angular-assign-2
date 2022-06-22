@@ -1,0 +1,151 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "productId": "A2",
+      "name": "SamSung TV",
+      "category": "TV",
+      "price": "11199.89",
+      "stockUnits": "20",
+      "serialNumber": "TV123",
+      "releaseDate": "20-1-2022",
+      "description": "five start rated product"
+    },
+    {
+      "id": 3,
+      "productId": "A3",
+      "name": "Redmi 9 pro",
+      "category": "electronics",
+      "price": "14499.89",
+      "stockUnits": "20",
+      "serialNumber": "Xioami123",
+      "releaseDate": "10-12-2019",
+      "description": "five start rated product"
+    },
+    {
+      "id": 5,
+      "productId": "A5",
+      "name": "HP laptop",
+      "category": "electronics",
+      "price": "58499.89",
+      "stockUnits": "20",
+      "serialNumber": "HP420",
+      "releaseDate": "20-1-2018",
+      "description": "five start rated product"
+    },
+    {
+      "productId": "A8",
+      "name": "Mobile",
+      "category": "Phone",
+      "price": "49000.500",
+      "serialNumber": "wfad",
+      "releaseDate": "2022-04-16",
+      "stockUnits": "7",
+      "description": "best",
+      "id": 10
+    },
+    {
+      "productId": "A3",
+      "name": "laptop",
+      "category": "Phone",
+      "price": "50000",
+      "serialNumber": "hp120",
+      "releaseDate": "2022-04-19",
+      "stockUnits": "65",
+      "description": "work",
+      "id": 13
+    },
+    {
+      "productId": "A10",
+      "name": "One plus 7",
+      "category": "Phone",
+      "price": "49000.500",
+      "serialNumber": "App123",
+      "releaseDate": "2022-04-08",
+      "stockUnits": "1",
+      "description": "stock is limited",
+      "id": 14
+    },
+    {
+      "productId": "OppA33",
+      "name": "Opp Smart phone",
+      "category": "Phone",
+      "price": "15000",
+      "serialNumber": "A33",
+      "releaseDate": "2022-04-02",
+      "stockUnits": "50",
+      "description": "Oppo Camera Phone",
+      "id": 15
+    },
+    {
+      "productId": "SamsungTv123",
+      "name": "Samsung TV",
+      "category": "Tv",
+      "price": "49000.500",
+      "serialNumber": "New123",
+      "releaseDate": "2022-04-02",
+      "stockUnits": "30",
+      "description": "samsung Tv ",
+      "id": 17
+    },
+    {
+      "productId": "M6",
+      "name": "Redmi 4A",
+      "category": "Phone",
+      "price": "8500",
+      "serialNumber": "4A",
+      "releaseDate": "2022-04-01",
+      "stockUnits": "3",
+      "description": "Best Phone in low price",
+      "id": 18
+    },
+    {
+      "productId": "RealmeC12",
+      "name": "RealmeC12",
+      "category": "Phone",
+      "price": "9000",
+      "serialNumber": "c12",
+      "releaseDate": "2022-02-01",
+      "stockUnits": "30",
+      "description": "This is most best rated phone",
+      "id": 19
+    },
+    {
+      "productId": "M5",
+      "name": "Samsung TV ",
+      "category": "Tv",
+      "price": "49000.500",
+      "serialNumber": "latitute15",
+      "releaseDate": "2022-03-30",
+      "stockUnits": "11",
+      "description": "rated",
+      "id": 20
+    }
+  ],
+  "login": [
+    {
+      "name": "sachin",
+      "email": "sachin@gmail.com",
+      "password": "sachin@123",
+      "role": "user"
+    },
+    {
+      "name": "prafull",
+      "email": "prafull@gmail.com",
+      "password": "sachin@123",
+      "role": "admin"
+    },
+    {
+      "name": "amaresh",
+      "email": "amaresh@gmail.com",
+      "password": "sachin@123",
+      "role": "user"
+    },
+    {
+      "name": "abhishek",
+      "email": "abhishek@gmail.com",
+      "password": "Abhishek@123",
+      "role": "admin"
+    }
+  ]
+}

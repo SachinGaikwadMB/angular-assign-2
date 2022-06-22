@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+.banner {
+    height: 100vh;
+    width: 100%;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    
+}
+
+.card {
+    border: none;
+    width: 500px;
+    padding: 40px;
+     position:relative;
+     left:50%;
+     top:50%;
+    // transform: translate(-50%, 50%);
+    // background: #6A67CE;
+    // background: linear-gradient();
+}
+

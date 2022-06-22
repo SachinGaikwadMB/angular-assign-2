@@ -1,0 +1,14 @@
+.content-block {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.image {
+    width: 50%;
+    height: 50%;
+  }
+.detail-msg {
+    font-size: 20px;
+    line-height: 20px;
+}
